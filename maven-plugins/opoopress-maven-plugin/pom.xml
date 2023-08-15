@@ -176,6 +176,6 @@
 	</reporting>
   
   	<properties>
-  	    <maven.version>2.2.1</maven.version>
+  	    <maven.version>3.8.1</maven.version>
 	</properties>
 </project>
